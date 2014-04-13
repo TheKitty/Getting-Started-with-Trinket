@@ -1,6 +1,6 @@
 /* LED "Color Organ" for Adafruit Trinket and Neopixel LEDs
 
-   From Chapter 5 of Getting Started with Trinket by Michael J Barela, 2014  
+   From Chapter 5 of Getting Started with Trinket by Mike Barela, 2014  
    Version 1.0 - Initial Version
 */
 

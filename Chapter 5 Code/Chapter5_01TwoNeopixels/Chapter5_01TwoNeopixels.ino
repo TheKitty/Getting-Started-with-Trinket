@@ -1,6 +1,6 @@
 /* Getting Started with Trinket - Two Neopixel Program 
 
-From Chapter 5 of Getting Started with Trinket by Michael J Barela, 2014  
+From Chapter 5 of Getting Started with Trinket by Mike Barela, 2014  
 Version 1.0 - Initial Version
 */
 #include <Adafruit_NeoPixel.h> // Add in the Adafruit Neopixel library <1>

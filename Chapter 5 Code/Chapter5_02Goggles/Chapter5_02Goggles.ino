@@ -1,8 +1,8 @@
 /* Low power NeoPixel goggles example
    Makes a nice blinky display with just a few LEDs on at any time.
    
-   From Chapter 5 of Getting Started with Trinket by Michael J Barela, 2014  
-   Version 1.0 - Initial Version
+   From Chapter 5 of Getting Started with Trinket by Mike Barela, 2014  
+   Version 1.0 - Initial Version, Phillip Burgess
 */
 #include <Adafruit_NeoPixel.h>  // <1>
 

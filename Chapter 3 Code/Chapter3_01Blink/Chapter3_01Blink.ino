@@ -10,7 +10,8 @@
       the red LED pulse. This means it is ready to receive data
    5) Click the IDE upload button above within 10 seconds
    
-   By Michael J Barela
+From Chapter 3 of Getting Started with Trinket by Mike Barela, 2014  
+Version 1.0 - Initial Version
 */
 int led = 1;    // <1>
   
